@@ -34,3 +34,6 @@ js
 
 # Mac files
 .DS_Store
+
+# History files
+.history
